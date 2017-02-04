@@ -6,6 +6,7 @@ We did an empirical analysis on the spread of football articles on social networ
 A more detailed description is included in the project report.
 
 Categories:
+
 1. Social Networks
 
 2. Physical Networks (Internet)
