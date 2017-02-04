@@ -24,3 +24,5 @@ It includes code used for retrieving articles from the Guardian, tweets from Twi
 > MyDocument - It is a modification of the Document class provided by Professor Sheth. It is tailored to Articles and tweets.
 
 > Country - This class reads from a file called geocode.txt and then returns a Country object which stores all the data related to countries and the geocodes of the cities located in the country.
+
+[Analysis of results](https://github.com/yamir1995/TwitterScores/blob/master/Analysis%20Writeup.pdf)
